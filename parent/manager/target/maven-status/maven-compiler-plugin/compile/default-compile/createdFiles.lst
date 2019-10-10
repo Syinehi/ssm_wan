@@ -1,0 +1,9 @@
+com\atguigu\atcrowdfunding\service\impl\UserServiceImpl.class
+com\atguigu\atcrowdfunding\controller\UserController.class
+com\atguigu\atcrowdfunding\dao\UserDao.class
+com\atguigu\atcrowdfunding\dao\RoleDao.class
+com\atguigu\atcrowdfunding\controller\PermissionController.class
+com\atguigu\atcrowdfunding\service\impl\RoleServiceImpl.class
+com\atguigu\atcrowdfunding\service\UserService.class
+com\atguigu\atcrowdfunding\controller\RoleController.class
+com\atguigu\atcrowdfunding\service\RoleService.class

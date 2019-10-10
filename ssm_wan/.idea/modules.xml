@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../parent/common/common.iml" filepath="$PROJECT_DIR$/../parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/manager/manager.iml" filepath="$PROJECT_DIR$/../parent/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/parent.iml" filepath="$PROJECT_DIR$/../parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/portol/portol.iml" filepath="$PROJECT_DIR$/../parent/portol/portol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm_wan.iml" filepath="$PROJECT_DIR$/.idea/ssm_wan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/web/web.iml" filepath="$PROJECT_DIR$/../parent/web/web.iml" />
+    </modules>
+  </component>
+</project>
